@@ -1,0 +1,27 @@
+.header {
+  background-color: $darkBlue;
+  padding: 6px 0;
+
+  &__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  &__search {
+    &-input {
+      width: 100%;
+      max-width: 336px;
+      border: 1px solid #d9d9d9;
+      border-radius: 4px;
+      padding: 5px 12px;
+      position: relative;
+      background-image: url(../img/icons/search-icon.svg);
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      font-size: 14px;
+      line-height: 22px;
+    }
+	}
+	
+	&__nav
+}
