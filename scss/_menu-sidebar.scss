@@ -1,0 +1,15 @@
+.menu-sidebar {
+  max-width: 192px;
+
+  &__user {
+    &__avatar {
+      width: 24px;
+      height: 24px;
+    }
+
+    &__name {
+      color: #262626;
+      text-decoration: none;
+    }
+  }
+}
